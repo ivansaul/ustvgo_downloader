@@ -3,25 +3,25 @@
 #EXTINF:-1 tvg-id="DISN" group-title="Kids", DISNEY 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://h4.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6Mjg6MDYgUE0maGFzaF92YWx1ZT1YWkgrZ2ZBRW1UbEtib2cvZTBSaFVBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6NDM6MzMgUE0maGFzaF92YWx1ZT1JaWxkRHRlRTYwRDRTVEJkZm1EQmxRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-id="DEST" group-title="Lifestyle", DESTINATION AMERICA 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://h4.ustvgo.la/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6Mjg6MTMgUE0maGFzaF92YWx1ZT1MMHVLL2pyMVMyNWh5QVZJdFk5K1VBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/DA/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6NDM6MzMgUE0maGFzaF92YWx1ZT1JaWxkRHRlRTYwRDRTVEJkZm1EQmxRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-id="BOOM" group-title="Kids", BOOMERANG 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://h4.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6Mjg6MjAgUE0maGFzaF92YWx1ZT04cHB6VWR0R1BER1RRU042bmpZcW9nPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6NDM6MzMgUE0maGFzaF92YWx1ZT1JaWxkRHRlRTYwRDRTVEJkZm1EQmxRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-id="LIFE" group-title="Lifestyle", LIFETIME 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://h4.ustvgo.la/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6Mjg6MjcgUE0maGFzaF92YWx1ZT1POEQ2ZmJZQi9tcXR6T0hIaU1mWUhBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6NDM6MzMgUE0maGFzaF92YWx1ZT1JaWxkRHRlRTYwRDRTVEJkZm1EQmxRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-id="WWE NETWORK" group-title="Sports", WWE NETWORK 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 #EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://h4.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6Mjg6MzQgUE0maGFzaF92YWx1ZT0rWDRiVUxpdWgxbG5jSjdBdXdJUHdnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDU6NDM6MzMgUE0maGFzaF92YWx1ZT1JaWxkRHRlRTYwRDRTVEJkZm1EQmxRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
