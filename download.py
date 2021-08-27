@@ -130,13 +130,21 @@ if __name__ == '__main__':
     driver.get('https://ustvgo.tv/')
     sleep(0.5)
 
-    soup = BeautifulSoup(driver.page_source, features='lxml')
-    root_div = soup.select_one('div.article-container')
-    page_links = []
-    for link in root_div.select('li>strong>a[href]'):
-        page_links.append(link.get('href'))
-    for link in root_div.select('li>a[href]'):
-        page_links.append(link.get('href'))
+    #soup = BeautifulSoup(driver.page_source, features='lxml')
+    #root_div = soup.select_one('div.article-container')
+    #page_links = []
+    #for link in root_div.select('li>strong>a[href]'):
+    #    page_links.append(link.get('href'))
+    #for link in root_div.select('li>a[href]'):
+    #    page_links.append(link.get('href'))
+
+    ''' My favorite channels --> my favorite channels.txt'''
+    with open('my favorite channels.txt') as f:
+        page_links = f.readlines()
+
+    page_links = [x.strip() for x in page_links]
+    page_links = list(filter(None, page_links))
+    ''' ------------------------------------------------ '''
 
     channel_list = [
         re.sub(r'^https://ustvgo.tv/|/$', '', i)
